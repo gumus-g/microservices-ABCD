@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Tomato basil pasta",
+    "ingredients": [
+      "pasta",
+      "cherry tomatoes",
+      "olive oil",
+      "garlic",
+      "basil"
+    ],
+    "instructions": "Cook pasta, then drain and set aside. In a skillet, heat olive oil and saute garlic, then add cherry tomatoes. Toss in cooked pasta and add fresh basil.",
+    "cooking_time": "20 minutes"
+  },
+  {
+    "id": "2",
+    "name": "Peanut butter cookies",
+    "ingredients": [
+      "peanut butter",
+      "sugar",
+      "egg"
+    ],
+    "instructions": "Preheat oven to 350F. Mix all ingredients in a bowl. Roll into small balls, place on a baking sheet, and flatten with a fork. Bake for 10-12 minutes.",
+    "cooking_time": "15 minutes"
+  },
+  {
+    "id": "3",
+    "name": "Cheese quesadilla",
+    "ingredients": [
+      "flour tortillas",
+      "shredded cheese",
+      "salsa"
+    ],
+    "instructions": "Heat a skillet over medium heat. Place one tortilla in the skillet, add shredded cheese, and top with the second tortilla. Cook until the bottom is golden, then flip. Slice into wedges and serve with salsa.",
+    "cooking_time": "10 minutes"
+  },
+  {
+    "id": "4",
+    "name": "soup",
+    "ingredients": [
+      "test"
+    ],
+    "instructions": "test",
+    "cooking_time": "20"
+  }
+]
